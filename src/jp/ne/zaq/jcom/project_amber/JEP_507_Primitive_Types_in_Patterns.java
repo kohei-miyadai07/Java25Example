@@ -1,4 +1,4 @@
-package jp.ne.zaq.jcom;
+package jp.ne.zaq.jcom.project_amber;
 
 public class JEP_507_Primitive_Types_in_Patterns {
 
